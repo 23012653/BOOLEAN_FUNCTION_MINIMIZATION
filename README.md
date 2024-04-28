@@ -68,8 +68,10 @@ RegisterNumber: 212223040017
 ![image](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/75a09e74-9a4c-48e0-b684-40f344fb1551)
 
 
+
 **Timing Diagram**
 ![image](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/7a23effc-78a7-48fe-b581-0de04ada9cad)
+
 
 **Result:**
 
