@@ -55,8 +55,8 @@ assign F2= B1|B2|B3|B4|B5;
 endmodule
 ```
 
-Developed by: ANUBHARATHI SS
-RegisterNumber: 212223040017
+### Developed by: ANUBHARATHI SS
+### RegisterNumber: 212223040017
 
 
 ### RTL realization
