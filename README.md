@@ -59,18 +59,18 @@ Developed by: ANUBHARATHI SS
 RegisterNumber: 212223040017
 
 
-**RTL realization**
-![image](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/c3a272b3-c5a5-4167-b25e-035c765a7daa)
+### RTL realization
+![WhatsApp Image 2024-05-06 at 17 26 52_cc26dc2f](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/b44fd970-7a6e-4619-b09e-b0280b76cb9e)
+
+
+### Truth Table
+![WhatsApp Image 2024-05-06 at 17 27 35_e86fa98f](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/99690088-0208-4a9d-bce6-804d74356383)
 
 
 
-**Truth Table**
-![image](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/75a09e74-9a4c-48e0-b684-40f344fb1551)
+### Timing Diagram
+![WhatsApp Image 2024-05-06 at 17 27 46_0533e896](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/e133867c-9a08-47cb-a432-d0c3f2ad6452)
 
-
-
-**Timing Diagram**
-![image](https://github.com/23012653/BOOLEAN_FUNCTION_MINIMIZATION/assets/150777517/7a23effc-78a7-48fe-b581-0de04ada9cad)
 
 
 **Result:**
